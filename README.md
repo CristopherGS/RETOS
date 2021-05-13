@@ -1,2 +1,4 @@
 # RETOS
-RETOS PARA FRONT-END
+RETOS PARA FRONT-END SACADOS DE LAS WEB
+1. https://www.frontendmentor.io/challenges
+2. https://codealo.dev/proyecto/landing-page-smartwatches
