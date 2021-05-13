@@ -2,3 +2,25 @@
     background-color: black;
     color: white;
 }
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+.text-different{
+    color: rgb(131, 71, 131);
+}
+.text-content{
+    color:#e6e6e6;
+}
+.text-background{
+    background-color: #001a33;
+}
