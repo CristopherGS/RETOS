@@ -1,35 +1,71 @@
-body{
-    background-color: hsl(233, 47%, 7%);
-    font-size: 15px;
-    font-family: 'Inter', sans-serif;
+body {
+  background-color: hsl(233, 47%, 7%);
+  font-size: 15px;
+  font-family: "Inter", sans-serif;
 }
-.template{
-    display: flex;
-    background-color: hsl(244, 38%, 16%);
-    width: 900px;
-    height: 400px;
+.padre {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 200px;
 }
-#parrafo{
-    text-align: left;
-    font-family: 'Lexend Deca', sans-serif;
-    font-size: 15px;
-    margin-right: 20px;
-    color: hsla(0, 0%, 100%, 0.75);
+.template {
+  display: flex;
+  background-color: hsl(244, 38%, 16%);
+  width: 900px;
+  height: 400px;
 }
-#info{
+.stats {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  
+}
+#companies {
+  margin: 20px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+#teplates {
+  margin: 20px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+#queris {
+  margin: 20px;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+#uno{
     color: hsl(0, 0%, 100%);
 }
-#text{
-    padding: 10px;
-    margin: 30px;
+#dos{
+    color: hsl(0, 0%, 100%);
+}
+#tres{
+    color: hsl(0, 0%, 100%);
+}
+#parrafo {
+  text-align: left;
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+  margin-right: 20px;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+#info {
+  color: hsl(0, 0%, 100%);
+}
+#text {
+  padding: 10px;
+  margin: 30px;
 }
 
-#imagen{
-    width: 100%;
+#imagen {
+  width: 100%;
 }
 img {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
+}
+h1 > #r {
+  color: hsl(277, 64%, 61%);
 }
 
- /* cambiamos el template */
+/* cambiamos el template */
