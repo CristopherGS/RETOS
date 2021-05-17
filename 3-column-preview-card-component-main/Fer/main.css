@@ -23,7 +23,10 @@ h1{
     color: #f2f2f2;
 }
 body{
+    padding: 100px;
     color: #f2f2f2;
     font-size: 15px;
 }
-  
+.attribution{
+    color:black;
+}
