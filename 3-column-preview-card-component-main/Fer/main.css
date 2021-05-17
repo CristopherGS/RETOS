@@ -1,0 +1,29 @@
+.button-borders{
+    border-top-left-radius: 20px 50%;
+    border-top-right-radius: 20px 50%;
+    border-bottom-left-radius: 20px 50%;
+    border-bottom-right-radius: 20px 50%;
+}
+.div1{
+    background-color:#e38826;
+    padding: 20px;
+}
+.div2{
+    background-color: #006970;
+    padding: 20px;
+}
+.div3{
+    background-color: #004241;
+    padding: 20px;
+}
+p{
+    color: #ffffff;
+}
+h1{
+    color: #f2f2f2;
+}
+body{
+    color: #f2f2f2;
+    font-size: 15px;
+}
+  

@@ -1,0 +1,14 @@
+{
+  "name": "fer",
+  "version": "1.0.0",
+  "description": "paquetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Fernando",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
