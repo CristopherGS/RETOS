@@ -1,0 +1,15 @@
+body{
+    font-size: 12px;
+    font-family: "Kumbh Sans", sans-serif;
+    font-weight: 400;
+    background-image: linear-gradient(#af67e9, #6565e7);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.textInBold{
+    font-weight: 700;
+}
+.content{
+    margin: 6%;
+    background-color: #e7e7e9;
+}
