@@ -1,0 +1,38 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+#flecha{
+    float: right;
+}
+#cont {
+  height: auto;
+  background-color: white;
+  border-radius: 30px;
+  padding-left: 2rem;
+  padding-right: 3rem;
+  padding-top: 3rem;
+}
+#shaddow{
+    position: absolute;
+    width: 600px;
+    height: 400pxx;
+    top: -100px;
+    left: -100px;
+}
+#box {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  top: -226px;
+}
+.card {
+  border: none !important;
+}
+.card-body {
+  border-bottom: solid;
+  border-bottom-color: hsl(240, 5%, 91%);
+}
